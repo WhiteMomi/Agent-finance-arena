@@ -1,0 +1,69 @@
+{
+  "balance": 115231.99999999994,
+  "initial_balance": 100000.0,
+  "realized_pnl": 16219.999999999945,
+  "fees_paid": 988.0,
+  "frozen": 0.0,
+  "positions": {
+    "RB2610.SHF": {
+      "symbol": "RB2610.SHF",
+      "long_qty": 8,
+      "short_qty": 0,
+      "long_avg": 3135.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 3135.0
+    },
+    "I2609.DCE": {
+      "symbol": "I2609.DCE",
+      "long_qty": 0,
+      "short_qty": 0,
+      "long_avg": 0.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 748.0
+    },
+    "CU2610.SHF": {
+      "symbol": "CU2610.SHF",
+      "long_qty": 0,
+      "short_qty": 0,
+      "long_avg": 0.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 108680.0
+    },
+    "HC2610.SHF": {
+      "symbol": "HC2610.SHF",
+      "long_qty": 4,
+      "short_qty": 0,
+      "long_avg": 3396.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 3396.0
+    },
+    "AU2612.SHF": {
+      "symbol": "AU2612.SHF",
+      "long_qty": 0,
+      "short_qty": 0,
+      "long_avg": 0.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 979.88
+    },
+    "M2609.DCE": {
+      "symbol": "M2609.DCE",
+      "long_qty": 0,
+      "short_qty": 0,
+      "long_avg": 0.0,
+      "short_avg": 0.0,
+      "long_today": 0,
+      "short_today": 0,
+      "prev_settle": 3326.0
+    }
+  }
+}
